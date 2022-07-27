@@ -1,7 +1,7 @@
-TODO: //leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
+TODO: "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree";
 
 // O(n), O(n), n - nums length
-https: function lowestCommonAncestor(
+function lowestCommonAncestor(
   root: TreeNode | null,
   p: TreeNode | null,
   q: TreeNode | null
